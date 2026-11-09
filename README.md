@@ -1,3 +1,7 @@
+![SELENE — Diwali 2026](./assets/diwali-banner.svg)
+
+<p align="center"><a href="https://akhilalladi-code.github.io/diwali-universe/"><strong>🪔 Explore Diwali Universe 2026 · Interactive celebration ↗</strong></a></p>
+
 # SELENE — Lunar Expedition
 
 **Repository description:** A cinematic, multi-page speculative lunar exploration concept website built with responsive HTML, CSS and JavaScript, ready for GitHub Pages.
